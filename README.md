@@ -14,7 +14,6 @@ I'm currently learning Nodejs
 
 <img src="https://raw.githubusercontent.com/yotech42/yotech42/output/snake.svg" alt="Snake animation" />
 
-###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yotech42&icon=0&color=0)](https://visitcount.itsvg.in)
