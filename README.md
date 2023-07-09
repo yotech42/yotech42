@@ -12,7 +12,7 @@ I'm currently learning Nodejs
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yotech42&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://raw.githubusercontent.com/yotech42/yotech42/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yotech42/yotech42/main/snake.yml" alt="Snake animation" />
 
 
 ---
